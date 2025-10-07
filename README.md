@@ -46,3 +46,20 @@ Encountered an issue? We want to fix it! Following these steps helps us identify
 
 <details>
   <summary>Click here to copy the raw template text</summary>
+</details>
+
+---
+
+## How to Suggest a Feature or Give Feedback
+
+Have an idea for a new ghost, level, or game mode? We'd love to hear it!
+
+1.  **Create a New Issue:** Click the **[New Issue](https://github.com/pgoel-spec/ghostbuster-support/issues/new)** button.
+2.  **Use a Clear Title:** Give your idea a descriptive title, like "Suggestion: Add a new 'Splitter' ghost type".
+3.  **Describe Your Idea:** Explain your suggestion in as much detail as you can. Tell us why you think it would be a great addition to the game!
+
+<br>
+
+---
+
+Thank you for playing and for helping to make Ghostbuster even better! Your feedback is incredibly valuable.
