@@ -44,10 +44,6 @@ Encountered an issue? We want to fix it! Following these steps helps us identify
 
 <br>
 
-<details>
-  <summary>Click here to copy the raw template text</summary>
-</details>
-
 ---
 
 ## How to Suggest a Feature or Give Feedback
