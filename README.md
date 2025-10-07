@@ -44,8 +44,6 @@ Encountered an issue? We want to fix it! Following these steps helps us identify
 
 <br>
 
----
-
 ## How to Suggest a Feature or Give Feedback
 
 Have an idea for a new ghost, level, or game mode? We'd love to hear it!
