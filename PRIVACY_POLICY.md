@@ -1,33 +1,73 @@
 # Privacy Policy for Ghostbuster
 
-**Effective Date:** October 1, 2025
+**Last Updated:** November 24, 2025
 
-Thank you for playing Ghostbuster ("the app"). This privacy policy explains what information is handled by the app and why.
+This Privacy Policy explains how **Ghostbuster** ("we," "our," or "us") collects, uses, and protects your information when you use our mobile application.
 
-### Data Collection and Usage
+By using the App, you agree to the collection and use of information in accordance with this policy.
 
-We believe in privacy. Ghostbuster is designed to be a completely self-contained, offline experience.
+## 1. Information We Collect
 
-**The app does NOT collect, store, or transmit any personally identifiable information.**
+### A. Information You Provide to Us
+When you create an account to use the online features of the App, we collect the following personal information:
+* **Name:** First and Last name (to personalize your profile).
+* **Email Address:** Used for account authentication and recovery.
+* **Date of Birth:** Used to determine age-appropriate settings or compliance.
+* **Password:** Encrypted and handled securely via our authentication provider.
 
-We do not collect information such as your name, email address, location, device ID, or any other data that could be used to identify you. The game does not include any third-party analytics, advertising, or tracking services.
+### B. Automatically Collected Data
+When you play the game, we automatically collect certain data to improve the game experience:
+* **Game Progress:** Level history, current level, high scores, remaining lives, and energy cell counts.
+* **Usage Data:** Details about your activity, such as when you start a level, when a "Game Over" occurs, and how often you use the app.
+* **Device Information:** We may collect limited device identifiers required for analytics and bug reporting.
 
-### Locally Stored Data (High Scores)
+### C. Local Storage
+For "Guest" or "Offline" players, game progress is stored locally on your device using **Local Storage**. If you delete the app, this data may be lost.
 
-The only data the app saves is your high score history. This information is stored **exclusively on your own device** using the browser's local storage functionality.
+## 2. How We Use Your Information
 
-This data is never transmitted to us or any third party. It remains on your device and can be cleared by you at any time by clearing your browser's site data. Its sole purpose is to allow you to track your own progress and best scores within the game.
+We use the collected data for the following purposes:
+* **Account Management:** To create and manage your user account.
+* **Cloud Sync:** To save your game progress (Levels, Scores) to the cloud so you can resume on different devices or after reinstalling.
+* **Analytics:** To analyze game difficulty (e.g., tracking where players lose lives most often) and improve gameplay balance.
+* **Leaderboards:** To display your high scores on your profile.
 
-### Children's Privacy
+## 3. Third-Party Services
 
-Since the app does not collect any personal information whatsoever, it is safe for all ages. We do not knowingly collect personal information from children under the age of 13.
+We use third-party services that may collect information used to identify you. The specific providers used by this App are:
 
-### Changes to This Privacy Policy
+* **Google Firebase (Authentication):** Used to manage user logins securely.
+    * [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
+* **Google Firestore (Database):** Used to store user profiles and game progress.
+* **Google Analytics for Firebase:** Used to collect usage data and analytics events (e.g., Level Completion rates).
+    * [Google Analytics Privacy Policy](https://policies.google.com/privacy)
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+## 4. Data Retention and Deletion
 
-### Contact Us
+We retain your personal data only for as long as is necessary for the purposes set out in this Privacy Policy.
 
-If you have any questions about this Privacy Policy, you can contact us:
+### Your Right to Delete Account
+In compliance with Apple App Store Guidelines, you have the right to delete your account and all associated data directly within the App.
+1.  Go to the **Profile** screen from the main menu.
+2.  Tap the **Delete Account** button.
+3.  Confirm the action.
+
+**Consequences of Deletion:** This process immediately removes your authentication record and deletes your user profile and game progress from our database. This action is irreversible.
+
+## 5. Children’s Privacy
+
+We collect Dates of Birth to help ensure our services are appropriate for our users. We do not knowingly collect personal information from children under the age of 13 without parental consent. If we discover that a child under 13 has provided us with personal information, we will delete such information from our servers immediately.
+
+## 6. Security
+
+We value your trust in providing us your Personal Information and we use commercially acceptable means of protecting it (including HTTPS encryption for data in transit). However, remember that no method of transmission over the internet or method of electronic storage is 100% secure and reliable.
+
+## 7. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+## 8. Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us:
 
 * By visiting our support page: `https://github.com/pgoel-spec/ghostbuster-support/`
