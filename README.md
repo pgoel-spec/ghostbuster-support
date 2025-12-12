@@ -4,7 +4,7 @@ Welcome to the official support page for the **Ghostbuster League** arcade game!
 
 ---
 
-### [➡️ Download Ghostbuster on the App Store!](https://your-app-store-link-here)
+### [➡️ Download Ghostbuster on the App Store!](https://apps.apple.com/in/app/ghostbuster-league/id6753724067)
 
 ---
 
